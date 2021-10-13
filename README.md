@@ -1,4 +1,4 @@
-##Hangman:
+Hangman:
 
 Let's you get a hint only during the first try and then let's you guess each letter one by one.
 

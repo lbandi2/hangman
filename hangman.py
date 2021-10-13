@@ -45,7 +45,7 @@ while play:
 
     tries = 5
 
-    print(f'\nGuess: {word}')
+    print(f'\nWord: {word}')
 
     print(len(word) * '_ ')
 
